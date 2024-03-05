@@ -9,7 +9,7 @@
 В файле index.html замените {YOUR_API_KEY} на свои ключи "Javascript API и HTTP Геокодер", "API Геосаджеста" из кабинета разработчика.
 
 ### Лицензия
-Лицензия MIT Copyright (c) 2022-2023 Gleb "xenongee" Rublev 
+Лицензия MIT Copyright (c) 2022-2024 Gleb "xenongee" Rublev 
 
 Прежде чем использовать этот скрипт, пожалуйста, ознакомьтесь с условиями использования API Яндекс.Карт.
 
